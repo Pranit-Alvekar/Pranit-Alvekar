@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pranit-Alvekar
-- 👀 I’m interested in front-end development
+- 👀 I’m interested in back-end development
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking for a job as a web developer
 - 📫 How to reach me pranit.alvekar14@gmail.com
